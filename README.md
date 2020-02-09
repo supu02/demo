@@ -1,2 +1,2 @@
 # Demo Project README
-this is a so,ple readme file
+this is a simple readme file
