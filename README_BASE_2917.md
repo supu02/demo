@@ -1,8 +1,3 @@
-spinach isnt that bad
-
-cherries
-grappesssss
-bananananannana
 Apples and mangoes
 and oranges
 

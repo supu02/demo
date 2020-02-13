@@ -1,8 +1,9 @@
-spinach isnt that bad
+<<<<<<< HEAD
 
-cherries
-grappesssss
+biscuits
+=======
 bananananannana
+>>>>>>> very-bad
 Apples and mangoes
 and oranges
 
